@@ -1,0 +1,20 @@
+/* styles.css */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+#output {
+  margin-top: 20px;
+  position: relative;
+}
+
+.letter {
+  display: inline-block;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.selected {
+  background-color: yellow;
+}
